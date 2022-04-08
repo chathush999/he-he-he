@@ -34,11 +34,13 @@
 ## Installation
 
 ### Deploy to Heroku
- href="https://heroku.com/deploy?template=">
-            <img src="https://www.herokucdn.com/deploy/button.svg"https://github.com/chathush999/he-he-he alt="Deploy">
+ <p align="center">
+        <a href="https://heroku.com/deploy?template=https://github.com/chathush999/he-he-he">
+            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
 </h1>
+
 
 ### Deploy in your vps
 ```sh
