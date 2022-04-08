@@ -34,7 +34,8 @@
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Image-Editor)
+"https://heroku.com/deploy?template=https://github.com/thehamkercat/WilliamButcherBot">
+            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 ### Deploy in your vps
 ```sh
