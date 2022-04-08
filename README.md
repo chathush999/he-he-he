@@ -34,16 +34,11 @@
 ## Installation
 
 ### Deploy to Heroku
-  <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/thehamkercat/WilliamButcherBot">
-            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+ href="https://heroku.com/deploy?template=">
+            <img src="https://www.herokucdn.com/deploy/button.svg"https://github.com/chathush999/he-he-he alt="Deploy">
         </a>
     </p>
 </h1>
-
-<h3 align="center"> 
-   Generating Pyrogram Session For Heroku
-</h3>
 
 ### Deploy in your vps
 ```sh
